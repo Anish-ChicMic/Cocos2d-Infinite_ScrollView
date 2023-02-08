@@ -1,0 +1,1 @@
+Implemented an infinite scroller in cocos2d with scrollview component.
